@@ -1,6 +1,6 @@
-# New Video - https://youtu.be/fWe6k4MmeSg
+# New Video - https://youtu.be/IsgRatCefVc
 
-![YouTube Art](assets/173.png?raw=true "Title")
+[<img src="assets/186.png?raw=true">](https://youtu.be/IsgRatCefVc)
 
 # Contents
 
@@ -10,7 +10,7 @@
 
 🎥 - [YouTube](https://www.youtube.com/c/AntonPutra)  
 💼 - [LinkedIn](https://www.linkedin.com/in/anton-putra)  
-🎙 - [Twitter](https://twitter.com/antonvputra)  
+🛠️ - [X](https://x.com/antonvputra)  
 📨 - me@antonputra.com  
 
 
